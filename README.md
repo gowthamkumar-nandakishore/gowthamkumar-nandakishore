@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gowtham 👋</h1>
 
-<!--
-**gowthamkumar-nandakishore/gowthamkumar-nandakishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+AI Systems Architect • Distributed Systems • Production AI
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+I design and build **production-grade AI systems** that operate at scale.
+
+Focused on the intersection of:
+- LLM systems → real-world applications
+- distributed systems → performance and reliability
+- backend engineering → scalable architectures
+
+I work on problems where:
+→ AI meets real production constraints  
+→ systems need to scale, not just demo  
+→ engineering matters more than hype  
+
+---
+
+### ⚙️ What I Build
+
+- LLM-powered systems (RAG, retrieval, feedback loops)
+- Vector search infrastructure (FAISS → Elasticsearch migration)
+- Async pipelines (SQS, FastAPI, distributed workers)
+- High-performance backend systems
+- AI systems with human-in-the-loop learning
+
+---
+
+### 🧩 Core Stack
+Python • FastAPI • C# • .NET
+AWS (SQS, S3, DynamoDB, EC2)
+FAISS • Elasticsearch • Vector Search
+PostgreSQL • SQL Server
+LLMs • RAG • Inference Pipelines
+
+
+---
+
+### 🚀 Featured Work
+
+- **JTON**  
+  Token-efficient JSON alternative for structured AI data  
+
+- **AI Retrieval + Correction System**  
+  Production pipeline combining vector search + feedback loops  
+
+- **Portfolio**  
+  Personal website and experiments  
+
+---
+
+### 🧭 Current Focus
+
+- Scaling production AI systems
+- Improving LLM reliability in real environments
+- Designing better retrieval architectures
+- Bridging AI research → production systems
+
+---
+
+### 🔗 Connect
+
+- 🌐 https://gowthamkumar-nandakishore.github.io  
+- 💼 https://www.linkedin.com/in/gowthamkumarn  
+
+---
+
+<p align="center">
+Building systems that actually work in production.
+</p>
