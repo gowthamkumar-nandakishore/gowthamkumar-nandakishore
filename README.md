@@ -42,19 +42,6 @@ LLMs • RAG • Inference Pipelines
 
 ---
 
-### 🚀 Featured Work
-
-- **JTON**  
-  Token-efficient JSON alternative for structured AI data  
-
-- **AI Retrieval + Correction System**  
-  Production pipeline combining vector search + feedback loops  
-
-- **Portfolio**  
-  Personal website and experiments  
-
----
-
 ### 🧭 Current Focus
 
 - Scaling production AI systems
