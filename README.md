@@ -53,7 +53,7 @@ LLMs • RAG • Inference Pipelines
 
 ### 🔗 Connect
 
-- 🌐 https://gowthamkumar-nandakishore.github.io  
+- 🌐 https://gowthamkumar-nandakishore.vercel.app/  
 - 💼 https://www.linkedin.com/in/gowthamkumarn  
 
 ---
